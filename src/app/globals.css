@@ -66,4 +66,7 @@
   body {
     @apply bg-background text-foreground;
   }
+  h2{
+    @apply text-primary text-3xl text-center font-bold
+  }
 }
